@@ -14,3 +14,6 @@
 1. Repository clone kare:  
 ```bash
 git clone https://github.com/spyagentbillu-007/fixer.py.git
+cd fixer.py
+pip install -r requirements.txt
+python fixer.py
